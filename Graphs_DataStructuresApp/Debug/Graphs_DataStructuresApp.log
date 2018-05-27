@@ -1,0 +1,14 @@
+﻿  main.cpp
+  Graph.cpp
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\graph.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\graph.cpp(90): warning C4101: 'cityExist': unreferenced local variable
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\graph.cpp(89): warning C4101: 'index': unreferenced local variable
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\hashtable.h(229): warning C4018: '<': signed/unsigned mismatch
+  c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\hashtable.h(228): note: while compiling class template member function 'void HashTable<std::string>::printTable(void)'
+  c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\graph.cpp(77): note: see reference to function template instantiation 'void HashTable<std::string>::printTable(void)' being compiled
+  c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\graph.cpp(16): note: see reference to class template instantiation 'HashTable<std::string>' being compiled
+  Generating Code...
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\pairlist.h(65): warning C4715: 'PairList<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getValueFromKey': not all control paths return a value
+c:\users\james\documents\github\graphs_datastructuresapp\graphs_datastructuresapp\pairlist.h(85): warning C4715: 'PairList<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getKeyFromValue': not all control paths return a value
+  Graphs_DataStructuresApp.vcxproj -> C:\Users\James\Documents\GitHub\Graphs_DataStructuresApp\Debug\Graphs_DataStructuresApp.exe
+  Graphs_DataStructuresApp.vcxproj -> C:\Users\James\Documents\GitHub\Graphs_DataStructuresApp\Debug\Graphs_DataStructuresApp.pdb (Full PDB)
